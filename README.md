@@ -48,3 +48,14 @@ This POC successfully worked under the following testing condition:
 
 ## Credits
 This tool was inspired from the tweet by <a href="https://twitter.com/mysk_co/">Mysk</a> and I would like to thank them for this discovery.
+
+  <h2 align="left">
+  <b>Reach Out!</b>
+ </h2>
+
+<p align="left">
+  You can contact me through the following handles:
+  <ul type="disc">
+    <li> <b>Instagram</b> - <a href="https://instagram.com/umairnehri">@umairnehri</a></li>
+    </ul>
+  </p>
