@@ -59,5 +59,6 @@ This tool was inspired from the tweet by <a href="https://twitter.com/mysk_co/">
     <li> <b>Instagram</b> - <a href="https://instagram.com/umairnehri">@umairnehri</a></li>
     <li> <b>Twitter</b> - <a href="https://twitter.com/0x9747">@0x9747</a></li>
     <li> <b>Discord</b> - Umair#5710 </li>
+    <li> <b>Email</b> - <a href="mailto:0x9778@protonmail.com">0x9778@protonmail.com</a> </li>
     </ul>
   </p>
