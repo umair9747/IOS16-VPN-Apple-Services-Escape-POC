@@ -57,5 +57,6 @@ This tool was inspired from the tweet by <a href="https://twitter.com/mysk_co/">
   You can contact me through the following handles:
   <ul type="disc">
     <li> <b>Instagram</b> - <a href="https://instagram.com/umairnehri">@umairnehri</a></li>
+    <li> <b>Twitter</b> - <a href="https://twitter.com/0x9747">@0x9747</a></li>
     </ul>
   </p>
